@@ -8,8 +8,8 @@ export default function Home() {
         <Image
           src="/logo.png"
           alt="JointCrest Logo"
-          width={120}
-          height={120}
+          width={170}
+          height={170}
           priority
         />
         <h1 className="text-4xl sm:text-7xl font-extrabold tracking-tight text-gray-900">
